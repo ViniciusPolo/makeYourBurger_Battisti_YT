@@ -1,19 +1,19 @@
-# myb_v4
+# Make your burger
 
-## Project setup
+Sistema em front-end realizado sobre a orientação do professor Matheus Battisti utilizando Vue.js
+
+Após clonar o sistema proceda com a instalação dos modulos do node
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Após
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+e será necessário inicializar o servidor back-end fake
 ```
-npm run build
+npm run back-end
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Prontinho, monte seu burger
